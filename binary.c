@@ -89,7 +89,7 @@ int main()
         }
         else
         {
-            printf("--EXITED---");
+            printf("--EXITED--");
             break;
         }
     }
